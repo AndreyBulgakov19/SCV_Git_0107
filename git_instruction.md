@@ -35,5 +35,9 @@ git init
 ```
 2. Клонировать репозиторий при помощи команды:
 ```
-git clone
+git clone 'address of repository'
+```
+**Пример:**
+```angular2html
+git clone git@github.com:example/example.git
 ```
