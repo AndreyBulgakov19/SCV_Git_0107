@@ -17,3 +17,5 @@ git config --global user.name "Имя"
 git config --global user.email "Почта"
 ```
 
+## 4. Создание репозитория
+Получить репозиторий можно двумя способами.
