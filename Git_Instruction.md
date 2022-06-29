@@ -74,6 +74,7 @@ git checkout master
 ```
 git branch <имя ветви>
 ```
+### 2. Слияние веток в Git
 
 
 
