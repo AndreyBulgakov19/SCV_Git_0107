@@ -90,3 +90,4 @@ Git_Instruction.zip
 ```
 git branch Название ветки
 ```
+УХХХХ ТЯЖЕЛО ХА!
