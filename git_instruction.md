@@ -146,3 +146,4 @@ _***commit hash - уникальное имя (минимум 4 первых с�
 командой:
 
 > git branch <branch_name>
+> git checkout -b <branch name>
