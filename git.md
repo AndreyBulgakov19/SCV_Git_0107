@@ -1,4 +1,8 @@
+![](D:/git/sources/git2.1.png)
+
 ### Введение в Git
+
+---
 
 __1. Установка git__
 
@@ -12,6 +16,7 @@ https://git-scm.com/downloads
 
 Установку производим с настройками по умолчанию.
 
+---
 
   __2. Настройка git__
 
@@ -28,6 +33,8 @@ https://git-scm.com/downloads
 + `git config --global color.ui auto`  - изменить выделение синтаксиса.
 
 + `git config --global core.editor "[...]"`  - установка редактора кода по умолчанию.
+
+---
 
 __3. Работа с репозиторием__
 
