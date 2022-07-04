@@ -1,0 +1,94 @@
+0000000000000000000000000000000000000000 0cedfa632846b5fa0d5c831b1de9554a64b230eb Max Dorn <maximilian.sd.84@gmail.com> 1656444573 +0300	commit (initial): Создание файла
+0cedfa632846b5fa0d5c831b1de9554a64b230eb 1408b6dc9a2448d58a374bdd3a617bc317e40e2f Max Dorn <maximilian.sd.84@gmail.com> 1656444806 +0300	commit: Ввели основной заголовок, пункт 1 Проверка наличия установленного Git и пункт 2. Установка Git
+1408b6dc9a2448d58a374bdd3a617bc317e40e2f 3e9b84cc9e250b2f55a859958c373e876447b88b Max Dorn <maximilian.sd.84@gmail.com> 1656444883 +0300	commit: Ввели пункт 3. Настройка Git
+3e9b84cc9e250b2f55a859958c373e876447b88b 1f71d488d6af0643b0447473e1ad605731dd15aa Max Dorn <maximilian.sd.84@gmail.com> 1656444946 +0300	commit: Ввели пункт 4. Создание репозитория
+1f71d488d6af0643b0447473e1ad605731dd15aa 429c5811a752ff13d7a460d01d48db0d1aecb656 Max Dorn <maximilian.sd.84@gmail.com> 1656445009 +0300	commit: Ввели пункт 5. Создание нового файла в репозитории
+429c5811a752ff13d7a460d01d48db0d1aecb656 a721ddd4119240bf6107a9adb381c38a7428699b Max Dorn <maximilian.sd.84@gmail.com> 1656445052 +0300	commit: Ввели пункт ## 6. Добавление изменений в Индекс
+a721ddd4119240bf6107a9adb381c38a7428699b 14501814edc38ba86a683011d74c4948fa49c1b2 Max Dorn <maximilian.sd.84@gmail.com> 1656446035 +0300	commit: Ввели пункт 7. Создание коммита
+14501814edc38ba86a683011d74c4948fa49c1b2 3baaddd1101b19d68d91fd715c5470384f8de743 Max Dorn <maximilian.sd.84@gmail.com> 1656446143 +0300	commit: 8. Как сравнивать изменения в Git: команда diff --git a/Git_instructions.md b/Git_instructions.md
+3baaddd1101b19d68d91fd715c5470384f8de743 8eea60bcde6cf37849752ab7102d27e5f00df396 Max Dorn <maximilian.sd.84@gmail.com> 1656446210 +0300	commit: 9. Вывод на экран всех коммитов с их хеш-кодами: команда diff --git a/Git_instructions.md b/Git_instructions.md
+8eea60bcde6cf37849752ab7102d27e5f00df396 dfa8dc00b370a8d9d763a1fcbbf10f3fc32b0640 Max Dorn <maximilian.sd.84@gmail.com> 1656446258 +0300	commit: 10. Функция помощи
+dfa8dc00b370a8d9d763a1fcbbf10f3fc32b0640 7cb1425599a0fadb1d491ee02b1b49f6fe102338 Max Dorn <maximilian.sd.84@gmail.com> 1656446820 +0300	commit: 11. Перемещение между коммитами: команда M Git_instructions.md
+7cb1425599a0fadb1d491ee02b1b49f6fe102338 43a5a62e6aca8adcf3f47a205edc105a30d3b215 Max Dorn <maximilian.sd.84@gmail.com> 1656447911 +0300	commit: Добавили пункт 12. Цитаты и ссылки в Markdown
+43a5a62e6aca8adcf3f47a205edc105a30d3b215 ecc3da52f8b0fef1ba49729f9f28d60ddd23f288 Max Dorn <maximilian.sd.84@gmail.com> 1656447965 +0300	commit: Корректировка строк цитаты в 12. Цитаты и ссылки в Markdown
+ecc3da52f8b0fef1ba49729f9f28d60ddd23f288 d4e6cb06649bbe1896a450bac08793cb258ac3fb Max Dorn <maximilian.sd.84@gmail.com> 1656796374 +0300	commit: Add .gitignore
+d4e6cb06649bbe1896a450bac08793cb258ac3fb ac53adf7edc1eb4ca9b719e63a997cd88a517512 Max Dorn <maximilian.sd.84@gmail.com> 1656796461 +0300	commit: commit
+ac53adf7edc1eb4ca9b719e63a997cd88a517512 1c12250d62d05b2324880eed83edfb2042806dcc Max Dorn <maximilian.sd.84@gmail.com> 1656796923 +0300	commit: Add .gitignore and add Git logo as jpeg
+1c12250d62d05b2324880eed83edfb2042806dcc ada3bbfd57709c25211df3b7113ad02bde944b8c Max Dorn <maximilian.sd.84@gmail.com> 1656797077 +0300	commit: Коррекция различных ошибок и эксперементов с .gitignore и git logo)
+ada3bbfd57709c25211df3b7113ad02bde944b8c ecc3da52f8b0fef1ba49729f9f28d60ddd23f288 Max Dorn <maximilian.sd.84@gmail.com> 1656797423 +0300	reset: moving to ecc3da5
+ecc3da52f8b0fef1ba49729f9f28d60ddd23f288 8d86956cb57239f265c3e76f3db16da5fc04cf64 Max Dorn <maximilian.sd.84@gmail.com> 1656797828 +0300	commit: add file .gitignore
+8d86956cb57239f265c3e76f3db16da5fc04cf64 ac1e8bb917b0f3ece696b641958069d0937d5ba8 Max Dorn <maximilian.sd.84@gmail.com> 1656797940 +0300	commit: Add GIT LOGO as jpeg at the beginning as ignored in .gitignore
+ac1e8bb917b0f3ece696b641958069d0937d5ba8 0c42f3e6bee4a800e4be985161240fa9262b1d72 Max Dorn <maximilian.sd.84@gmail.com> 1656798345 +0300	commit: Корректировка инструкции к старту семнирана 2 (возврат к пункту 4)
+0c42f3e6bee4a800e4be985161240fa9262b1d72 cd4251cc97f7551f60c095595d968e8a1962cecc Max Dorn <maximilian.sd.84@gmail.com> 1656798785 +0300	commit: Добавили информацию в раздел 4: Создание репозитория
+cd4251cc97f7551f60c095595d968e8a1962cecc cd4251cc97f7551f60c095595d968e8a1962cecc Max Dorn <maximilian.sd.84@gmail.com> 1656799028 +0300	checkout: moving from master to WriteChange
+cd4251cc97f7551f60c095595d968e8a1962cecc cd4251cc97f7551f60c095595d968e8a1962cecc Max Dorn <maximilian.sd.84@gmail.com> 1656799084 +0300	checkout: moving from WriteChange to Master
+cd4251cc97f7551f60c095595d968e8a1962cecc c318bac0bb36ef4ed34b96c974b8fdb0d34ad7d0 Max Dorn <maximilian.sd.84@gmail.com> 1656799420 +0300	commit: Добавлен раздел 5: Запись изменений в репозиторий
+c318bac0bb36ef4ed34b96c974b8fdb0d34ad7d0 cd4251cc97f7551f60c095595d968e8a1962cecc Max Dorn <maximilian.sd.84@gmail.com> 1656799522 +0300	checkout: moving from Master to WriteChange
+cd4251cc97f7551f60c095595d968e8a1962cecc 8bdf00e12512d0c6307861a467ff58f7ad282f4b Max Dorn <maximilian.sd.84@gmail.com> 1656799674 +0300	commit: Добавлен раздел 5: Запись изменений в репозиторий
+8bdf00e12512d0c6307861a467ff58f7ad282f4b c318bac0bb36ef4ed34b96c974b8fdb0d34ad7d0 Max Dorn <maximilian.sd.84@gmail.com> 1656799710 +0300	checkout: moving from WriteChange to Master
+c318bac0bb36ef4ed34b96c974b8fdb0d34ad7d0 462d99fffc0bfbfb7e0a495a971e2260a6c241ff Max Dorn <maximilian.sd.84@gmail.com> 1656799882 +0300	commit (merge): Разрешили конфликт
+462d99fffc0bfbfb7e0a495a971e2260a6c241ff 310fab26f754afb6ec61c7857a61623ce0487529 Max Dorn <maximilian.sd.84@gmail.com> 1656800306 +0300	commit: Добавили подзаголовок 6: Простори истории коммитов
+310fab26f754afb6ec61c7857a61623ce0487529 310fab26f754afb6ec61c7857a61623ce0487529 Max Dorn <maximilian.sd.84@gmail.com> 1656800369 +0300	checkout: moving from Master to ShowHistory
+310fab26f754afb6ec61c7857a61623ce0487529 310fab26f754afb6ec61c7857a61623ce0487529 Max Dorn <maximilian.sd.84@gmail.com> 1656800474 +0300	checkout: moving from ShowHistory to Master
+310fab26f754afb6ec61c7857a61623ce0487529 5f56a9529caa169aaa504d6f72762383fe9e6a99 Max Dorn <maximilian.sd.84@gmail.com> 1656800727 +0300	commit: Добавили информацию в раздел 6: Просмотр истории коммитов
+5f56a9529caa169aaa504d6f72762383fe9e6a99 310fab26f754afb6ec61c7857a61623ce0487529 Max Dorn <maximilian.sd.84@gmail.com> 1656800783 +0300	checkout: moving from Master to ShowHistory
+310fab26f754afb6ec61c7857a61623ce0487529 a11653b0185c0ff12ccfacb66bfd5d4276dfb934 Max Dorn <maximilian.sd.84@gmail.com> 1656800835 +0300	commit: Добавили информацию в раздел 6: Просмотр истории коммитов
+a11653b0185c0ff12ccfacb66bfd5d4276dfb934 5f56a9529caa169aaa504d6f72762383fe9e6a99 Max Dorn <maximilian.sd.84@gmail.com> 1656800857 +0300	checkout: moving from ShowHistory to master
+5f56a9529caa169aaa504d6f72762383fe9e6a99 72c48aede78b6615587bfceb47524e96b4ff39d6 Max Dorn <maximilian.sd.84@gmail.com> 1656801790 +0300	commit (merge): Разрешили конфликт 2
+72c48aede78b6615587bfceb47524e96b4ff39d6 a11653b0185c0ff12ccfacb66bfd5d4276dfb934 Max Dorn <maximilian.sd.84@gmail.com> 1656802138 +0300	checkout: moving from master to ShowHistory
+a11653b0185c0ff12ccfacb66bfd5d4276dfb934 4ecd9d3f7bb8c27662e5dce3f9e68caa2a6a011b Max Dorn <maximilian.sd.84@gmail.com> 1656802159 +0300	commit: Изменения
+4ecd9d3f7bb8c27662e5dce3f9e68caa2a6a011b 72c48aede78b6615587bfceb47524e96b4ff39d6 Max Dorn <maximilian.sd.84@gmail.com> 1656802173 +0300	checkout: moving from ShowHistory to master
+72c48aede78b6615587bfceb47524e96b4ff39d6 72c48aede78b6615587bfceb47524e96b4ff39d6 Max Dorn <maximilian.sd.84@gmail.com> 1656802753 +0300	checkout: moving from master to master
+72c48aede78b6615587bfceb47524e96b4ff39d6 310fab26f754afb6ec61c7857a61623ce0487529 Max Dorn <maximilian.sd.84@gmail.com> 1656802815 +0300	checkout: moving from master to 310fab2
+310fab26f754afb6ec61c7857a61623ce0487529 0894fe672eb741d1e70f16fa03ce439eae00779f Max Dorn <maximilian.sd.84@gmail.com> 1656803005 +0300	commit: Add info
+0894fe672eb741d1e70f16fa03ce439eae00779f 72c48aede78b6615587bfceb47524e96b4ff39d6 Max Dorn <maximilian.sd.84@gmail.com> 1656803068 +0300	checkout: moving from 0894fe672eb741d1e70f16fa03ce439eae00779f to master
+72c48aede78b6615587bfceb47524e96b4ff39d6 72c48aede78b6615587bfceb47524e96b4ff39d6 Max Dorn <maximilian.sd.84@gmail.com> 1656803179 +0300	checkout: moving from master to new
+72c48aede78b6615587bfceb47524e96b4ff39d6 310fab26f754afb6ec61c7857a61623ce0487529 Max Dorn <maximilian.sd.84@gmail.com> 1656803238 +0300	checkout: moving from new to 310fab2
+310fab26f754afb6ec61c7857a61623ce0487529 f8f08cafb9cac1c43d6bcf85789caf841aeff781 Max Dorn <maximilian.sd.84@gmail.com> 1656803431 +0300	commit: Add info
+f8f08cafb9cac1c43d6bcf85789caf841aeff781 72c48aede78b6615587bfceb47524e96b4ff39d6 Max Dorn <maximilian.sd.84@gmail.com> 1656803451 +0300	checkout: moving from f8f08cafb9cac1c43d6bcf85789caf841aeff781 to master
+72c48aede78b6615587bfceb47524e96b4ff39d6 f8f08cafb9cac1c43d6bcf85789caf841aeff781 Max Dorn <maximilian.sd.84@gmail.com> 1656803615 +0300	checkout: moving from master to new
+f8f08cafb9cac1c43d6bcf85789caf841aeff781 97584221526201b8fe4d43d44a0a4ebc1cd952d6 Max Dorn <maximilian.sd.84@gmail.com> 1656803756 +0300	commit: Add info
+97584221526201b8fe4d43d44a0a4ebc1cd952d6 72c48aede78b6615587bfceb47524e96b4ff39d6 Max Dorn <maximilian.sd.84@gmail.com> 1656803829 +0300	checkout: moving from new to master
+72c48aede78b6615587bfceb47524e96b4ff39d6 846c3f9fd39613c49074850c7e324c6d89ccd41f Max Dorn <maximilian.sd.84@gmail.com> 1656803949 +0300	commit (merge): Слияние new и master
+846c3f9fd39613c49074850c7e324c6d89ccd41f 4ebe2bbc71b51713e245773f25dd54f32c8b0ce3 Max Dorn <maximilian.sd.84@gmail.com> 1656804410 +0300	commit: Добавили пункт 7: Создание новой ветки
+4ebe2bbc71b51713e245773f25dd54f32c8b0ce3 4ebe2bbc71b51713e245773f25dd54f32c8b0ce3 Max Dorn <maximilian.sd.84@gmail.com> 1656804619 +0300	checkout: moving from master to HomeWork
+4ebe2bbc71b51713e245773f25dd54f32c8b0ce3 67f890e01e1b8c22fc323784e3499597141f915e Max Dorn <maximilian.sd.84@gmail.com> 1656805003 +0300	commit: Добавили пункт 7: Создание новой ветки
+67f890e01e1b8c22fc323784e3499597141f915e 4ebe2bbc71b51713e245773f25dd54f32c8b0ce3 Max Dorn <maximilian.sd.84@gmail.com> 1656805011 +0300	checkout: moving from HomeWork to master
+4ebe2bbc71b51713e245773f25dd54f32c8b0ce3 67f890e01e1b8c22fc323784e3499597141f915e Max Dorn <maximilian.sd.84@gmail.com> 1656805033 +0300	merge HomeWork: Fast-forward
+67f890e01e1b8c22fc323784e3499597141f915e 9ab220fb625cdbf4c6e7d31d025dc8d509b4559d Max Dorn <maximilian.sd.84@gmail.com> 1656805551 +0300	commit: Добавили пункт 8: Слияние веток
+9ab220fb625cdbf4c6e7d31d025dc8d509b4559d 9ab220fb625cdbf4c6e7d31d025dc8d509b4559d Max Dorn <maximilian.sd.84@gmail.com> 1656805590 +0300	checkout: moving from master to HomeWorkConflict
+9ab220fb625cdbf4c6e7d31d025dc8d509b4559d d18fe434bf6f29987da15a574bd82f259bd9dce4 Max Dorn <maximilian.sd.84@gmail.com> 1656805638 +0300	commit: Добавили пункт 8: Слияние веток
+d18fe434bf6f29987da15a574bd82f259bd9dce4 9ab220fb625cdbf4c6e7d31d025dc8d509b4559d Max Dorn <maximilian.sd.84@gmail.com> 1656805650 +0300	checkout: moving from HomeWorkConflict to master
+9ab220fb625cdbf4c6e7d31d025dc8d509b4559d d18fe434bf6f29987da15a574bd82f259bd9dce4 Max Dorn <maximilian.sd.84@gmail.com> 1656805697 +0300	merge HomeWorkConflict: Fast-forward
+d18fe434bf6f29987da15a574bd82f259bd9dce4 368fea19911dbbf20e1c6453128f4b0f9cd3485b Max Dorn <maximilian.sd.84@gmail.com> 1656847768 +0300	commit: Добавили раздел 9: Удаление веток
+368fea19911dbbf20e1c6453128f4b0f9cd3485b d18fe434bf6f29987da15a574bd82f259bd9dce4 Max Dorn <maximilian.sd.84@gmail.com> 1656847808 +0300	checkout: moving from master to HomeWorkConflict
+d18fe434bf6f29987da15a574bd82f259bd9dce4 586640bf73e7bbb7846eccce4a1212489db08e6c Max Dorn <maximilian.sd.84@gmail.com> 1656847889 +0300	commit: Добавили раздел 9: Удаление веток
+586640bf73e7bbb7846eccce4a1212489db08e6c 368fea19911dbbf20e1c6453128f4b0f9cd3485b Max Dorn <maximilian.sd.84@gmail.com> 1656847901 +0300	checkout: moving from HomeWorkConflict to master
+368fea19911dbbf20e1c6453128f4b0f9cd3485b ff511cf5f56d928003dd09d537b9d922c7978694 Max Dorn <maximilian.sd.84@gmail.com> 1656847981 +0300	commit (merge): Разрешение конфликта 3
+ff511cf5f56d928003dd09d537b9d922c7978694 ff511cf5f56d928003dd09d537b9d922c7978694 Max Dorn <maximilian.sd.84@gmail.com> 1656848210 +0300	checkout: moving from master to HomeWorkNewConflict
+ff511cf5f56d928003dd09d537b9d922c7978694 ff511cf5f56d928003dd09d537b9d922c7978694 Max Dorn <maximilian.sd.84@gmail.com> 1656848233 +0300	checkout: moving from HomeWorkNewConflict to master
+ff511cf5f56d928003dd09d537b9d922c7978694 3e585a5a19756eb0cf84fd481ccd162f06a6d1c4 Max Dorn <maximilian.sd.84@gmail.com> 1656848464 +0300	commit: Добавили раздел 10: Отображение журнала фиксации в виде графика для текущей или всех веток
+3e585a5a19756eb0cf84fd481ccd162f06a6d1c4 ff511cf5f56d928003dd09d537b9d922c7978694 Max Dorn <maximilian.sd.84@gmail.com> 1656848492 +0300	checkout: moving from master to HomeWorkNewConflict
+ff511cf5f56d928003dd09d537b9d922c7978694 e11bd40c708a5ad267a86da8d5dd442f7d111541 Max Dorn <maximilian.sd.84@gmail.com> 1656848555 +0300	commit: Добавили раздел 10: Отображение журнала фиксации в виде графика для текущей или всех веток
+e11bd40c708a5ad267a86da8d5dd442f7d111541 3e585a5a19756eb0cf84fd481ccd162f06a6d1c4 Max Dorn <maximilian.sd.84@gmail.com> 1656848567 +0300	checkout: moving from HomeWorkNewConflict to master
+3e585a5a19756eb0cf84fd481ccd162f06a6d1c4 78d7406079ca9eeeeaf948dcecbe666e12c023f8 Max Dorn <maximilian.sd.84@gmail.com> 1656848629 +0300	commit (merge): Разрешение конфлика 4
+78d7406079ca9eeeeaf948dcecbe666e12c023f8 fa7a541f87025ae144bd61ca689625b5e0d74b2d Max Dorn <maximilian.sd.84@gmail.com> 1656849310 +0300	commit: Добавили раздел 11: Конфликты при слиянии веток
+fa7a541f87025ae144bd61ca689625b5e0d74b2d 78d7406079ca9eeeeaf948dcecbe666e12c023f8 Max Dorn <maximilian.sd.84@gmail.com> 1656849324 +0300	checkout: moving from master to HomeWorkNew
+78d7406079ca9eeeeaf948dcecbe666e12c023f8 0f62e40c5155a21a9b7589bddbc83916cdf62efb Max Dorn <maximilian.sd.84@gmail.com> 1656849371 +0300	commit: Добавили раздел 11: Конфликты при слиянии веток
+0f62e40c5155a21a9b7589bddbc83916cdf62efb fa7a541f87025ae144bd61ca689625b5e0d74b2d Max Dorn <maximilian.sd.84@gmail.com> 1656849381 +0300	checkout: moving from HomeWorkNew to master
+fa7a541f87025ae144bd61ca689625b5e0d74b2d 20141790f0a57421bee3aca1e26d98e87376ec4c Max Dorn <maximilian.sd.84@gmail.com> 1656849858 +0300	commit (merge): Разрешение конфликта 4 и дополнение пункта 11
+20141790f0a57421bee3aca1e26d98e87376ec4c a94add6d97895948bf63f650eda67e5e212faddf Max Dorn <maximilian.sd.84@gmail.com> 1656878605 +0300	commit: Добавили раздел 12: Добавление изображений в git
+a94add6d97895948bf63f650eda67e5e212faddf 8444cfb449d0db34c98425b19785e08de3db935b Max Dorn <maximilian.sd.84@gmail.com> 1656879433 +0300	commit: Добавили раздел 13: Игнорирование файлов
+8444cfb449d0db34c98425b19785e08de3db935b 4a4dcc415cdcfa36ee8141bd6bfb0f9c85ae8fd6 Max Dorn <maximilian.sd.84@gmail.com> 1656879570 +0300	commit: Небольшая коррекция в разеле 8
+4a4dcc415cdcfa36ee8141bd6bfb0f9c85ae8fd6 d69f2f57db27c0a752040b233904a5f38791673b Max Dorn <maximilian.sd.84@gmail.com> 1656971475 +0300	commit: Добавлены первые 3 пункта нового раздела 14. Работа с удалёнными репозиториями
+d69f2f57db27c0a752040b233904a5f38791673b 4cc4d88db63310342450a378372cb251cbd6eb78 Max Dorn <maximilian.sd.84@gmail.com> 1656971571 +0300	commit: Добавлен подпункт 4 для раздела 14
+4cc4d88db63310342450a378372cb251cbd6eb78 bc9ca9eda1197ddad1f6382a93cc30932434507c Max Dorn <maximilian.sd.84@gmail.com> 1656972026 +0300	commit: Добавили подпункт 5 в раздел 14
+bc9ca9eda1197ddad1f6382a93cc30932434507c 31c5e4b52937b6d2152c7763b09b90b0c0ffa70b Max Dorn <maximilian.sd.84@gmail.com> 1656972268 +0300	commit: Добавили инфо в подпункт 5 раздела 14 про change directory
+31c5e4b52937b6d2152c7763b09b90b0c0ffa70b bf44928408c790cd9ba8668acace3578592abad4 Max Dorn <maximilian.sd.84@gmail.com> 1656972698 +0300	commit: Добавили подпункт 6 в раздел 14
+bf44928408c790cd9ba8668acace3578592abad4 74be77a970d2626d1fe7bba63200dc11dbdb5e30 Max Dorn <maximilian.sd.84@gmail.com> 1656972843 +0300	commit: Добавили инфо к подпункт 6 в раздел 14
+74be77a970d2626d1fe7bba63200dc11dbdb5e30 88253ffa4e7bdbe533e4c6545cba1b2a87569baa Max Dorn <maximilian.sd.84@gmail.com> 1656973375 +0300	commit: Добавили подпункты важно и 7 в раздел 14
+88253ffa4e7bdbe533e4c6545cba1b2a87569baa 7ad28480d35c85550b7b9e4779eab4846984c7bd Max Dorn <maximilian.sd.84@gmail.com> 1656973610 +0300	commit: Закончили подпункт 7 в разделе 14
+7ad28480d35c85550b7b9e4779eab4846984c7bd 10cb2b68f76e7a51146b82173a7e5031c0e97785 Max Dorn <maximilian.sd.84@gmail.com> 1656976165 +0300	commit: Перенос изображения
+10cb2b68f76e7a51146b82173a7e5031c0e97785 67f890e01e1b8c22fc323784e3499597141f915e Max Dorn <maximilian.sd.84@gmail.com> 1656976411 +0300	checkout: moving from master to HomeWork
+67f890e01e1b8c22fc323784e3499597141f915e 25ecbe505fdb878d0f7b67f64334251ca7a77b56 Max Dorn <maximilian.sd.84@gmail.com> 1656976527 +0300	commit: Новая структура
+25ecbe505fdb878d0f7b67f64334251ca7a77b56 2410cf294c9dd457f6610b5a62409bfb9edb4898 Max Dorn <maximilian.sd.84@gmail.com> 1656976675 +0300	commit: готово
