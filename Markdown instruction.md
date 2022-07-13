@@ -49,6 +49,18 @@ To systemize quotes into nests use (>>) after (>)
 > Quote 1
 >> Quote 1.1
 
+## Working with GitHub
+
+To send a fresh local repo to GitHub type *git remote add origin*
+
+To clone an external repo (E.g. from GitHub) type *git clone <github url> command*
+
+To receive changes from GitHub and merge them with local version type *git pull* command
+
+To send local repo version to a remote repo (GitHub) type *git push*
+
+
+
 
 
 ## Conclusion
